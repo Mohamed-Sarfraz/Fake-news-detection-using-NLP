@@ -1,9 +1,6 @@
 # 🔍 Fake News Detection System
 **SRM Institute of Science and Technology — B.Tech CSE Project**
 
-**Team:** Gowdham R · Saksham Sharma · Parth Mishra  
-**Guide:** Dr. Saraswathi .E  
-
 ---
 
 ## 🚀 How to Run
